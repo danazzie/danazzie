@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/18MZnkhRWiVCT9ZV0cRT4hRtqsKznHbUG/view?usp=sharing">
+<img align="center" alt="Coding" width="200" src="https://drive.google.com/file/d/18MZnkhRWiVCT9ZV0cRT4hRtqsKznHbUG/view?usp=sharing">
 
 <h1 align="center">Hi 👋, I'm Danagul Azimzhanova</h1>
 <h3 align="center">A passionate front-end developer from Kazakhstan</h3>
