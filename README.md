@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://www.canva.com/design/DAFoPqSDHIM/_J_QF96F7dOX8PgBmGOHLA/edit?utm_content=DAFoPqSDHIM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))]
+[![MasterHead](https://drive.google.com/file/d/18MZnkhRWiVCT9ZV0cRT4hRtqsKznHbUG/view?usp=sharing)]
 
 <h1 align="center">Hi 👋, I'm Danagul Azimzhanova</h1>
 <h3 align="center">A passionate front-end developer from Kazakhstan</h3>
