@@ -1,5 +1,3 @@
-<img align="center" alt="Coding" width="200" src="https://drive.google.com/file/d/18MZnkhRWiVCT9ZV0cRT4hRtqsKznHbUG/view?usp=sharing">
-
 <h1 align="center">Hi 👋, I'm Danagul Azimzhanova</h1>
 <h3 align="center">A passionate front-end developer from Kazakhstan</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6904c33df5c9c3ae3a813ff7e7db270376e6d44ff47a77d78e7730eb74b4d237/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313531393636302f73637265656e73686f74732f343533363535302f6d656469612f30353335333135303862386265386637303032383135393131666138366364632e676966">
