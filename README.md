@@ -1,33 +1,44 @@
-<h1 align="center">Hi 👋, I'm Danagul Azimzhanova</h1>
-<h3 align="center">A passionate front-end developer from Kazakhstan</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6904c33df5c9c3ae3a813ff7e7db270376e6d44ff47a77d78e7730eb74b4d237/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313531393636302f73637265656e73686f74732f343533363535302f6d656469612f30353335333135303862386265386637303032383135393131666138366364632e676966">
+# Danagul Azimzhanova
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danazzie&label=Profile%20views&color=0e75b6&style=flat" alt="danazzie" /> </p>
+I build AI agents and full-stack products. The four repositories below are the ones to open: each has a setup, an architecture, and a straight account of what the code does.
 
-- 🔭 I’m currently working on **Consulting Project with Ammachi's Organic Farms**
+Kazakhstan · [LinkedIn](https://www.linkedin.com/in/danagul-azimzhanova-infosystems/) · dakamaka95@gmail.com
 
-- 👯 I’m looking to collaborate on **Data Analytics Projects**
+## Featured work
 
-- 🤝 I’m looking for help with **frontend development, consulting**
+### [Almaty Table](https://github.com/danazzie/almaty-table-ai-avatar)
 
-- 💬 Ask me about **Python,SQL,Django**
+A restaurant guide for Almaty you can talk to by text, voice, or photo. Two custom MCP servers collect live listings from 2GIS and deals from Chocolife. GPT-4o-mini calls those tools, and the answer can come back as speech in a cloned voice and a lip-synced avatar. Scrapes are cached, paid steps are behind flags, and a failed server does not take down the others.
 
-- 📫 How to reach me **dakamaka95@gmail.com**
+### [HireMind](https://github.com/danazzie/agenthire-ai-hackathon)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TSsUcmCxwCT_yKLZKMbiD8JhlBPsKc7C/view?usp=sharing](https://drive.google.com/file/d/1TSsUcmCxwCT_yKLZKMbiD8JhlBPsKc7C/view?usp=sharing)
+A PayPal sandbox settlement layer for work done by agents and people. Buyer and seller each authorize a hold. A test compiled before the holds, and hashed onto both orders, decides the outcome: pass pays the seller, fail pays the buyer. The screen, the API, and a recorded sandbox run are in the repo. The web app responds at [hire-mind-web.onrender.com](https://hire-mind-web.onrender.com).
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/danagul-azimzhanova-infosystems/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danagul-azimzhanova-infosystems/" height="30" width="40" /></a>
-<a href="https://instagram.com/@azzie_dana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@azzie_dana" height="30" width="40" /></a>
-</p>
+### [Movie Assistant](https://github.com/danazzie/llm-movie-assistant)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+A local movie agent. Llama 3.1 runs through Ollama, LangChain tools call the OMDb API, and a summary buffer keeps the conversation inside a token budget. Genre and rating lookups are documented as samples, because OMDb search matches titles. Twenty unit tests run without a key or a model.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danazzie&show_icons=true&locale=en&layout=compact" alt="danazzie" /></p>
+### [AICademy](https://github.com/danazzie/AICademy)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danazzie&show_icons=true&locale=en" alt="danazzie" /></p>
+An AI course marketplace. A Spring Boot service holds a curated catalog and ranks six courses from role, experience, interests, and goals. The React UI adds search, category and price filters, and eight career paths that re-rank the same catalog in the browser. Ranking rules are in the README, including the profile fields the score does not use yet.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danazzie&" alt="danazzie" /></p>
+## Also on this account
 
+| Repository | What it is |
+|---|---|
+| [ElderlyCareApp](https://github.com/danazzie/ElderlyCareApp) | A product note for a family care coordinator. The application is not in the repository. |
+| [AICademy-Frontend](https://github.com/danazzie/AICademy-Frontend) | The AICademy interface packaged with a static file server. The full stack is [AICademy](https://github.com/danazzie/AICademy). |
+| [Mayan-EDMS](https://github.com/danazzie/Mayan-EDMS), [github-recitation](https://github.com/danazzie/github-recitation), [github-setup](https://github.com/danazzie/github-setup) | Course forks from CMU 17-313 (2022). The products are upstream. My commits are a small content edit, a zero-handling fix, and the Git setup exercise. |
+| [openlibrary](https://github.com/danazzie/openlibrary) | A 2022 fork of [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary). Upstream project. |
+| [iq_game_edge](https://github.com/danazzie/iq_game_edge) | The first repository on this account (2020): a one-line Python hello-world. |
+
+## Stack in the featured repos
+
+| | |
+|---|---|
+| Agents | LangChain tool calling, MCP over stdio, Claude agents, local Llama 3.1 through Ollama |
+| Languages | Python, Java 17, Kotlin, JavaScript |
+| Services | Spring Boot 3, Postgres, Flyway, React, Vite, Gradio |
+| External systems | PayPal Orders and Payouts (sandbox), OMDb, OpenAI, 2GIS, Chocolife, fal.ai |
+
+Coursework in software engineering: CMU 17-313, Foundations of Software Engineering (2022). The course forks above are that work.
